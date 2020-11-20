@@ -1,0 +1,11 @@
+.DS_Store
+build
+out
+gradle
+gradlew
+gradlew.bat
+.gradle
+*.class
+*.jar
+*.zip
+*.bak
